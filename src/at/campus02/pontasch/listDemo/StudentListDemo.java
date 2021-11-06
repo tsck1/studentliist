@@ -21,7 +21,7 @@ public class StudentListDemo {
             System.out.println("Student  " + student);
 
             if (student.contains("Pontasch")){
-                System.out.println("Pontasch ist in der Liste");
+                System.out.println("Pontasch ist bereit in der Liste");
             }
 
         }
