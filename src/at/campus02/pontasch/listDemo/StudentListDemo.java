@@ -25,6 +25,7 @@ public class StudentListDemo {
             }
 
         }
+        students.remove("Pontasch");
         printStudents(students); //ruft die Methode auf
     }
     public static void printStudents(ArrayList<String> studentList){
